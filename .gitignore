@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Rope project files
+.ropeproject/
+
+# Python cache files
+__pycache__/
+
+# Data directory
+data/
+
+# Models directory
+models/
+
+# Mac OS X system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Other system files
+.Trash-*
+*~
+*.tmp
+```
